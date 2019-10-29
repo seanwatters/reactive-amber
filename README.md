@@ -1,6 +1,4 @@
-<p aligin="center">
-    <img src="https://camo.githubusercontent.com/29e7aad0d60bdf8daaacdc7ffa18c8d064155f4a/68747470733a2f2f7365616e776174746572732e696f2f696d616765732f72656163746976652d616d6265722e706e67" alt="reactive-amber" data-canonical-src="https://seanwatters.io/images/reactive-amber.png" height="200">
-</p>
+![reactive-amber](https://seanwatters.io/images/reactive-amber-h.png)
 
 <p align="center">
     <a href="https://amberframework.org/"><img src="https://img.shields.io/badge/using-amber_framework-orange.svg" ></a>
