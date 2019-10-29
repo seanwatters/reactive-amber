@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <i>The Speed and Performance of Amber with the features of React</i>
+    <i>The Speed and Performance of Amber with the power of React</i>
 </p>
 
 <br>
