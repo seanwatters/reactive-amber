@@ -1,4 +1,4 @@
-![reactive-amber](https://seanwatters.io/images/reactive-amber)
+![reactive-amber](https://seanwatters.io/images/reactive-amber.png)
 
 <p align="center">
     <a href="https://amberframework.org/"><img src="https://img.shields.io/badge/using-amber_framework-orange.svg" ></a>
