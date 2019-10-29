@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://camo.githubusercontent.com/7a798bfe5b25604cee980a98b84cdf7a9721e1bd/68747470733a2f2f7365616e776174746572732e696f2f696d616765732f72656163746976652d616d6265722d682e706e67" alt="reactive-amber" data-canonical-src="https://seanwatters.io/images/reactive-amber-h.png" height="220">
+    <img src="https://camo.githubusercontent.com/97b4f26bedb5faf9f9eb71296095f78b557b124c/68747470733a2f2f7365616e776174746572732e696f2f696d616765732f72656163746976652d616d6265722d6c6162656c2e706e67" alt="reactive-amber" data-canonical-src="https://seanwatters.io/images/reactive-amber-label.png" height="200">
 </p>
 
 <p align="center">
