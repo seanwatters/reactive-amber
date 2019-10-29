@@ -10,10 +10,10 @@ import HelloReact from './components/HelloReact';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={amberLogo} id="amber-logo" alt="logo" />
+      <header>
+        <img src={amberLogo} id="amber-logo" alt="Amber Logo" />
         <div/>
-        <img src={reactLogo} id="react-logo" alt="logo" />
+        <img src={reactLogo} id="react-logo" alt="React Logo" />
       </header>
       <body>
         <div>Reactive Amber</div>
