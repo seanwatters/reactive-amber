@@ -1,6 +1,5 @@
 const webpack = require('webpack');
 const path = require('path');
-const VueLoaderPlugin = require('vue-loader/lib/plugin');
 
 let config = {
   entry: {
@@ -14,8 +13,7 @@ let config = {
   },
   resolve: {
     alias: {
-      amber: path.resolve(__dirname, '../../lib/amber/assets/js/amber.js'),
-      '@': path.resolve(__dirname, '../../frontend-vue/src')
+      amber: path.resolve(__dirname, '../../lib/amber/assets/js/amber.js')
     }
   },
   module: {
@@ -47,8 +45,6 @@ let config = {
       }
     ]
   },
-  plugins: [
-  ],
   stats: 'errors-only'
 };
 
