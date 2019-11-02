@@ -109,7 +109,7 @@ For any questions specific to the [React](https://reactjs.org/) or [Amber](https
 
 ## DevTools
 
-When developing React applications, it is highly recommended to use the [React devtools](https://github.com/vuejs/vue-devtools). Currently only FireFox and Chrome have support for the devtools extension. Their links are provided below:
+When developing React applications, it is highly recommended to use the [React devtools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html). Currently only FireFox and Chrome have support for the devtools extension. Their links are provided below:
 
 * FireFox: [devtools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
 * Chrome: [devtools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
