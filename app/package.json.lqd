@@ -9,8 +9,8 @@
     "build": "webpack --config config/webpack/development.js",
     "watch": "webpack -w --config config/webpack/development.js",
     "release": "webpack -p --config config/webpack/production.js",
-    "test": "echo \"No test specified\" && exit 1"
-    "react-tools": "node frontend-vue/dev/react-tools.js"
+    "test": "echo \"No test specified\" && exit 1",
+    "react-tools": "node frontend-react/dev/react-tools.js"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
