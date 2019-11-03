@@ -91,13 +91,24 @@ With this recipe, we have modularized the file structure to isolate your React f
 
 ## CLI
 
-The scaffold, controller and model generators are currently a work in progress. The scaffold generator can be used currently but the routes need to be set manually in the `config/routes.cr` file to drop `edit` and `new` views. i.e:
+The **reactive-amber-cli** is a tool for scaffolding APIs, and components. To use the CLI, you will need to install the tool with `npm install` and run:
 
 ```
-resources "<pluralized route name>", <route name>Controller, except: [:edit, :new]
+npm run react-tools
 ```
 
-The README will be updated as soon as the generators have full functionality.
+When you run the CLI, you should see the following:
+
+```
+? select generator
+> componenet  // vue component generator
+> scaffold  // **currently doesn't have full functionality**
+> api  // will generate a full CRUD API in amber
+```
+
+You can generate components, full CRUD scaffolds and JSON APIs. 
+
+Please feel free to reference the **reactive-amber-cli** [docs](https://github.com/seanwatters/reactive-amber-cli) for a more in depth breakdown!
 
 <br>
 
