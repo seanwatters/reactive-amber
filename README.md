@@ -101,7 +101,7 @@ When you run the CLI, you should see the following:
 
 ```
 ? select generator
-> componenet  // vue component generator
+> componenet  // react component generator
 > scaffold  // **currently doesn't have full functionality**
 > api  // will generate a full CRUD API in amber
 ```
