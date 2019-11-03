@@ -15,7 +15,7 @@
 
 # Reactive Amber
 
-The goal of the **reactive-amber** recipe is to quickly provide a full stack sollution that takes full advantages of the best parts of development using a frontend framework (in the way it was designed to be used), with a powerfull backend API.
+The goal of the **reactive-amber** recipe is to quickly provide a full stack solution that takes full advantages of the best parts of development using a frontend framework (in the way it was designed to be used), with a powerful backend API.
 
 The intention is to break away from the traditional Rails-y MVC model, without requiring developers to write completely separate frontend/backend codebases. 
 
@@ -109,7 +109,7 @@ For any questions specific to the [React](https://reactjs.org/) or [Amber](https
 
 ## DevTools
 
-When developing React applications, it is highly recommended to use the [React devtools](https://github.com/vuejs/vue-devtools). Currently only FireFox and Chrome have support for the devtools extension. Their links are provided below:
+When developing React applications, it is highly recommended to use the [React devtools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html). Currently only FireFox and Chrome have support for the devtools extension. Their links are provided below:
 
 * FireFox: [devtools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
 * Chrome: [devtools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
