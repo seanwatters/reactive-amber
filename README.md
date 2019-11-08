@@ -75,15 +75,14 @@ With this recipe, we have modularized the file structure to isolate your React f
 |- spec
 |- src
     |- controllers
-        |- application_controller.cr
-        |- roots_controller.cr    // Controller for the primary route.
+        |- application_controller.cr   // the application.slang file is rendered in the application controller
         
     |- locales
     |- models
     |- views
         |- layouts
-        |- roots
-            |- root.slang   // Location of the #root <div> React will render to.
+        |- application
+            |- application.slang   // Location of the #root <div> React will render to.
          
 ```
 
