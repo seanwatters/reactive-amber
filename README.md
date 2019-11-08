@@ -82,7 +82,7 @@ With this recipe, we have modularized the file structure to isolate your React f
     |- views
         |- layouts
         |- application
-            |- application.slang   // Location of the #root <div> React will render to.
+            |- application.slang   // Location of the #root <div> React will anchor to.
          
 ```
 
