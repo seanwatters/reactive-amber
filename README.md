@@ -75,7 +75,7 @@ With this recipe, we have modularized the file structure to isolate your React f
 |- spec
 |- src
     |- controllers
-        |- application_controller.cr   // the application.slang file is rendered in the application controller
+        |- application_controller.cr   // the application.slang file is rendered here
         
     |- locales
     |- models
